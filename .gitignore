@@ -1,0 +1,22 @@
+Rapport Machine Learning fnirs-ecg-rsp.docx
+Rapport Machine Learning fnirs-ecg-rsp - revue balanced accuracy + stratégie fenetres.pdf
+Rapport Machine Learning fnirs-ecg-rsp - Gaétan ULYSSE.pdf
+
+
+#feuilles excels
+Feuilles_de_Temps_TDCS_timestamps_ms.xlsx
+Feuille_de_temps_only_SensorHub.xlsx
+Features_par_tâches.xlsx
+
+#Dossiers
+/DATASETS_cover&interpolation
+/FIGURES_COMPARISON_NORMS
+/RESULTS_eval_configs_nested_mcc
+/RESULTS_finaux_zscore_per_participant
+/RESULTS_finaux_zscore_per_participant
+/RESULTS_ML_BY_PARTICIPANT
+/RESULTS_ML_BY_PARTICIPANT_LEAVE_ONE_KSS_OUT-4FOLDScrossval
+/RESULTS_finaux_zscore_calibration
+/.virtual_documents
+/anaconda_projects
+/.ipynb_checkpoints

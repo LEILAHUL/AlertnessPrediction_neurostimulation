@@ -1,0 +1,27 @@
+# ==========================================
+# Dépendances pour le pipeline ML & Signal
+# Compatible avec Python >= 3.9, <= 3.11
+# ==========================================
+
+# --- Core Scientifique & Données ---
+numpy>=1.23.0,<2.0.0
+pandas>=1.5.0,<3.0.0
+scipy>=1.9.0,<1.14.0
+
+# --- Traitement du Signal Physiologique & Extraction de Features ---
+neurokit2>=0.2.7
+tsfel>=0.1.6
+
+# --- Machine Learning & Modélisation ---
+scikit-learn>=1.2.0,<1.6.0
+xgboost>=1.7.0
+catboost>=1.2.0
+joblib>=1.2.0
+
+# --- Visualisation & Graphiques ---
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# --- Entrées / Sorties & Utilitaires ---
+openpyxl>=3.0.10
+tqdm>=4.64.0
