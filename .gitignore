@@ -11,12 +11,24 @@ Features_par_tâches.xlsx
 #Dossiers
 /DATASETS_cover&interpolation
 /FIGURES_COMPARISON_NORMS
-/RESULTS_eval_configs_nested_mcc
-/RESULTS_finaux_zscore_per_participant
-/RESULTS_finaux_zscore_per_participant
-/RESULTS_ML_BY_PARTICIPANT
-/RESULTS_ML_BY_PARTICIPANT_LEAVE_ONE_KSS_OUT-4FOLDScrossval
-/RESULTS_finaux_zscore_calibration
+
+/resultats/RESULTS_eval_configs_nested_mcc/graphs
+/resultats/RESULTS_eval_configs_nested_mcc/eval_configs_seuil_mcc_nested_0.xlsx
+
+
+/resultats/RESULTS_ML_BY_PARTICIPANT
+
+/resultats/RESULTS_ML_BY_PARTICIPANT_LEAVE_ONE_KSS_OUT-4FOLDScrossval/figures
+
+/resultats/RESULTS_finaux_zscore_calibration/figures
+
 /.virtual_documents
 /anaconda_projects
 /.ipynb_checkpoints
+
+analyse_distribution_kss_et_rejets ML intra-participants.xlsx
+analyses modèles intra validité fenêtres.ipynb
+validité des fenêtres - modèles inter-participants + fenêtres longues.xlsx
+
+
+
