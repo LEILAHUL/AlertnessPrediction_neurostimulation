@@ -2,6 +2,8 @@ Ce dépôt contient le pipeline complet de traitement du signal, d'ingénierie d
 
 Le projet s'appuie sur une acquisition multimodale combinant la spectroscopie dans le proche infrarouge fonctionnelle (**fNIRS** frontale), l'électrocardiographie (**ECG**) et la fréquence respiratoire (**RSP**).
 
+Certaines parties de ce README.md et du code ont été réalisées avec l'aide de l'IA, utilisée comme outil d'assistance au développement et à la rédaction. Les choix techniques, l'intégration et la validation des résultats ont été supervisés par mes soins. Malgré les vérifications effectuées, certains éléments de code résiduels ou inutilisés peuvent subsister.
+
 ---
 
 ## 📋 Architecture & Pipeline des Notebooks
@@ -74,3 +76,10 @@ Calibration, Optimisation seuil MCC) Leave-one-KSS-out 4-folds) Top-Biomarqueurs
 git clone .....
 cd Hypovigilance_Detection_ML_Neurostim_ULaval
 pip install -r requirements.txt
+```
+
+## Citation
+
+Si vous utilisez ce projet dans une publication scientifique, merci de citer le dépôt comme suit :
+
+> Ulysse, G. *Hypovigilance Detection ML – Neurostim ULaval*. Dépôt GitHub, 2026. Disponible sur : https://github.com/u-gaetan/Hypovigilance_Detection_ML_Neurostim_ULaval
