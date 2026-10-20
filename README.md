@@ -1,4 +1,4 @@
-Ce dépôt contient le pipeline complet de traitement du signal, d'ingénierie des caractéristiques (*features*), d'entraînement et d'évaluation comparative de modèles de Machine Learning pour la détection binaire des états d'hypovigilance/somnolence (sur l'échelle de Karolinska - KSS).
+Ce dépôt contient le pipeline complet de traitement du signal, d'ingénierie des caractéristiques (*features*), d'entraînement et d'évaluation comparative de modèles de Machine Learning pour la détection binaire des états d'hypovigilance/somnolence (sur l'échelle de Karolinska - KSS). Le développement de ce code a été supporté par de grands modèles de langage (LLM).
 
 Le projet s'appuie sur une acquisition multimodale combinant la spectroscopie dans le proche infrarouge fonctionnelle (**fNIRS** frontale), l'électrocardiographie (**ECG**) et la fréquence respiratoire (**RSP**).
 
